@@ -1,0 +1,16 @@
+body{
+background-color: cadetblue;
+text-align: center;
+    border-style: groove;
+    
+}
+#apps{
+background-color: azure;
+    
+}
+#games{
+    background-color: chartreuse;
+}
+#chatbot{
+    background-color: crimson;
+}
